@@ -1,15 +1,29 @@
+import java.awt.Color
 import java.io.File
 import java.util.*
 import kotlin.collections.ArrayList
 
-
 val DEBUG_MODE = false
-
 val SKIP = listOf("[music starts]", "<instrumental>", "[song starts]", "[song begins]")
+
+val ACTOR_COLOR = mapOf(
+    "Aladdin" to Color(216, 233, 211),
+    "Jafar" to Color(255, 228, 152),
+    "Iago" to Color(234, 153, 153),
+    "Jafar + Iago" to Color(213, 177, 178),
+    "Genie" to Color(201, 218, 247),
+    "Genie + Jafar" to Color(255, 242, 203),
+    "Jasmine" to Color(199, 255, 238)
+)
+
 class ScriptReader {
     private val scriptList = ArrayList<String>()
-    private var curr = 0
+    var curr = 0
     private val actors = HashSet<String>()
+
+    fun lineNumber(): String {
+        return "$curr / ${scriptList.size}"
+    }
 
     fun load(path: String) {
         File(path).forEachLine {
@@ -49,6 +63,16 @@ class ScriptReader {
             }
         }
         curr = 0
+    }
+
+    fun printActors() {
+        actors.forEach {
+            println(it)
+        }
+    }
+
+    fun getColor(actor: String): Color {
+        return ACTOR_COLOR[actor] ?: Color.WHITE
     }
 
     fun hasNext(): Boolean {
@@ -119,6 +143,10 @@ class ScriptReader {
         val line = scriptList[curr]
         return line.substringAfter(currActor)
     }
+
+    fun goto(i: Int) {
+        curr = i
+    }
 }
 
 // Test script reader.
@@ -126,11 +154,13 @@ fun main(args: Array<String>) {
     val reader = ScriptReader()
     reader.load("res/script.txt")
 
+    reader.printActors()
+
 //    reader.debug()
 
-    do {
-        println("Actor(${reader.actor()}) : ${reader.line()}")
-        reader.nextLine()
-    } while (reader.hasNext())
+//    do {
+//        println("Actor(${reader.actor()}) : ${reader.line()}")
+//        reader.nextLine()
+//    } while (reader.hasNext())
 
 }
