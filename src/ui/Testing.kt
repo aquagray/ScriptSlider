@@ -1,7 +1,6 @@
 package ui
 
 import javax.swing.*
-import javax.swing.text.BadLocationException
 import java.awt.*
 import javax.swing.text.JTextComponent
 
