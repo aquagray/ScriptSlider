@@ -7,7 +7,7 @@ import script.ScriptPrep.actorsColorMap
 
 val SKIP = setOf("<>")//"TITLE", "SCENE")
 
-class Script(scene: Scene) {
+class Script(val scene: Scene) {
     var curr = 0
     val lines = mutableListOf<Line>()
     /** Pure list of actors without any () or []. */
@@ -99,6 +99,14 @@ class Script(scene: Scene) {
             curr = newIndex
         }
     }
+
+    fun get(i: Int): Line? {
+        return lines.getOrNull(i)
+    }
+
+    fun get(start: Int, end: Int): List<Line> {
+        return lines.subList(start, end + 1)
+    }
 }
 
 data class Line(
@@ -113,8 +121,14 @@ data class Line(
     }
     private fun actorNameOnly(original: String ): String {
         return when (type) {
-            LineType.DIALOG -> original.replace("[", "]")
-            LineType.ACTION -> original.replace("(", ")")
+            LineType.DIALOG -> original.apply {
+                replace("[", "")
+                replace("]", "")
+            }
+            LineType.ACTION -> original.apply {
+                replace("(", "")
+                replace(")", "")
+            }
             LineType.POSITION, LineType.ELSE -> original
         }
     }

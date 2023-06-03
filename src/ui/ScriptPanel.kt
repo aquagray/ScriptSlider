@@ -129,7 +129,6 @@ class ScriptPanel(var script: Script): JPanel() {
       val last = list.removeLast()
       remove(last)
       script.prevLine()
-      println("removed : ${script.line().line}")
       cut = true
       cutRetried = 0
     }

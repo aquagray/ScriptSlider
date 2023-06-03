@@ -4,9 +4,9 @@ import script.Line
 import script.Script
 import javax.swing.JTextPane
 
-class LineTextPane(val script: Script): JTextPane() {
-
-  var currentLine = script.line()
+class LineTextPane(
+  val script: Script,
+  var currentLine: Line = script.line()): JTextPane() {
 
   init {
     isEditable = false

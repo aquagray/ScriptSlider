@@ -5,7 +5,7 @@ import script.Scene
 import ui.ScriptPanel
 import ui.UiHelper
 
-class FontCheckStartApp : FontCheckAppSimple() {
+class VerifyStartingApp : AutomaticRecordingApp() {
   val listener = object: ScriptPanel.KeyListener {
     override fun onPress(direction: ScriptPanel.KeyListener.Direction) {
       when (direction) {

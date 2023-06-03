@@ -18,6 +18,7 @@ enum class Scene(val filePath: String) {
   Scene1("res/script_new_scene1.txt"),
   Scene2("res/script_new_scene2.txt"),
   Scene3("res/script_new_scene3.txt"),
+  Scene4("res/script_new_scene4.txt"),
   SceneAll("res/script_new.txt"),
 }
 object ScriptPrep {

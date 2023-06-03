@@ -14,13 +14,15 @@ SCENE 3 - Daniel’s Friends Survive a Blazing Furnace
 (Daniel’s Friends) (Shadrach carrying Mic) enter the stage from the right side
 (Ashpenaz) (behind Daniel’s friends) enter the stage from the right side
 
-[King] (to the audience) I hereby make a new proclamation! (dabs) People of all nations must bow to this statue (points to the statue) when they hear the musicians play. And anyone who doesn’t bow will be thrown into a blazing furnace!
+[King] (to the audience) I hereby make a new proclamation! (dabs) People of all nations must bow to this statue (points to the statue) when they hear the musicians play.
+[King] And anyone who doesn’t bow will be thrown into a blazing furnace!
 
 [Shadrach] King Nebuchadnezzar, we cannot bow down to your statue. We only bow down to the one true God. (passes Mic to Meshach)
 
 [King] Then I’ll have to make the guard throw you into the furnace!
 
-[Meshach] If we are thrown into the blazing furnace, the God we serve is able to deliver us from it. We want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up.  (passes Mic to Abednego)
+[Meshach] If we are thrown into the blazing furnace, the God we serve is able to deliver us from it. We want you to know,
+[Meshach] Your Majesty, that we will not serve your gods or worship the image of gold you have set up.  (passes Mic to Abednego)
 
 [Abednego] Yeah! What he said. (dabs)
 
@@ -42,7 +44,9 @@ SCENE 3 - Daniel’s Friends Survive a Blazing Furnace
 (Daniel’s Friends) fall and scream.
 (Guard) also falls himself.
 
-[Daniel] (looking in the direction of the friends) Oh, what an awful way to die! I can’t watch! (puts his hands over his eyes) (turns to the audience) My friends must be so afraid. Terrified, in fact! But they didn’t let their fear stop them from following the one true God. Remember, when you’re afraid, God is with you. He’ll give you the courage you need.
+[Daniel] (looking in the direction of the friends) Oh, what an awful way to die! I can’t watch! (puts his hands over his eyes) (turns to the audience)
+[Daniel] My friends must be so afraid. Terrified, in fact! But they didn’t let their fear stop them from following the one true God.
+[Daniel] Remember, when you’re afraid, God is with you. He’ll give you the courage you need.
 
 (Daniel’s Friends) (but not the Guard) stand back up and look surprised at themselves seeing that they’re fine. Happily walking around
 
@@ -54,9 +58,11 @@ SCENE 3 - Daniel’s Friends Survive a Blazing Furnace
 
 [Ashpenaz] No you don’t understand, your friends are alive! Not even a hair on their heads was burned!
 
-[Daniel] (looks in the direction of friends) Where? Where? Yes! I see them! (moves around the stage in excitement) They’re alive! God saved them! That’s what the one true God can do, Ashpenaz!
+[Daniel] (looks in the direction of friends) Where? Where? Yes! I see them! (moves around the stage in excitement) They’re alive!
+[Daniel]  God saved them! That’s what the one true God can do, Ashpenaz!
 
-[King] (to Daniel’s friends) Shadrach, Meshach, and Abednego, servants of the Most High God, come out, and come here! Praise be to the God of Shadrach, Meshach and Abednego, who has sent his angel and rescued his servants!
+[King] (to Daniel’s friends) Shadrach, Meshach, and Abednego, servants of the Most High God, come out, and come here!
+[King] Praise be to the God of Shadrach, Meshach and Abednego, who has sent his angel and rescued his servants!
 
 [Ashpenaz] (looking confused as he walks off the stage on the right side) You know, I might have to give a little more thought to that God of yours…
 
@@ -68,97 +74,4 @@ SCENE 3 - Daniel’s Friends Survive a Blazing Furnace
 
 (Daniel’s friends and Guard) (carrying the statue and cardboard fire) leave the stage on the left side
 
-SCENE 4 - Daniel in the Lions’ Den
-
-(Position) Actors’ starting positions Before Stage Entry:
-(Position) Right Side: Sign Bearers, Daniel (wearing white mustache), Ashpenaz, Guard
-(Position) Left Side: Lions (carrying Lion’s Den and scroll, Lion 3 carrying Mic), King (carrying Mic), Official
-
-(Lions) (Lion 3 carrying Mic) enter from left side to set up Lion’s den at the left back side of the stage, puts scroll on the floor, and then stand in front of the den
-
-(Sign bearer 1) walks from the right side to the left - Daniel in the Lion’s Den
-
-(Sign bearer 2) walks from the right side to the left behind Sign bearer 1 - Many Years Later with New King
-
-(King) (carrying Mic) enter the stage from the left side to the center
-(Official) enter the stage from the left side to the center
-
-[King] (to the audience) I'm a totally different king, not the king before. (dabs). I’m bored. Official! Do you have any fun ideas? (gives Mic to Official)
-
-[Official] (to the King) Hey you know what might be fun? Make it illegal to pray to anyone other than you, for the next 30 days. If they’re caught, throw them into the lion’s den. (gives Mic to King)
-
-[King] Great idea! Let’s do that.
-
-(King) exit the stage on the left side.
-(Official)  exit the stage on the left side.
-
-(Daniel) with his white mustache,  enter the stage from the right side to the center
-(Ashpenaz) enter the stage from the right side to the center
-(Guard) (behind Daniel) enter the stage from the right side to the center
-
-[Ashpenaz] (urgently) Daniel, Daniel, did you hear?! You’re not supposed to pray to God! Only pray to the king.
-
-[Daniel] Oh no.. (to the audience) Back home, everyone believed in God. We all prayed to God, we all praised him, we all worshiped him together. But here…it’s all so different and that makes me feel so alone. But do you know what I’ve learned? We’re never really alone because God is with us - always! So remember that when you’re lonely, God is with you.
-
-(Lion 3) roars. (passes Mic to Lion 1)
-
-[Daniel] (to the audience) I look forward to spending time with him and talking to him because I know he understands me and cares about me. That’s why my prayer time each day is so important to me. I pray three times a day! Will you join me in talking to God right now?
-
-[Lion 1] (to other Lions) I’m so hungry.. (passes Mic to Lion 2)
-[Lion 2] I wonder if there’s any yummy food, like humans, to eat.  (passes Mic to Lion 3)
-[Lion 3] Roars
-
-(Daniel) kneels down and begins to pray
-
-[Daniel] (praying) Dear God, thank you for being with me, even when I’m lonely.
-
-[Ashpenaz] (shaking his head in dismay) Daniel, Daniel—look at you! This is exactly what I was afraid of! Why can’t you stop praying—at least for 30 days! Why can’t you just obey the king? And now here I am, sent by the king to arrest you. This makes me so sad, Daniel. But I do work for the king. I don’t want to be served to those lions for dinner tonight.
-
-[Ashpenaz] (sadly) Take him away, guard!
-
-(Guard) takes Daniel to the entrance of the Lion’s den.
-
-[Daniel] (turning back to the audience) Take heart, my friends. I’m glad I got to know you. Remember what we talked about—and keep praying!
-
-(Guard) pushes Daniel into the Lion’s den. Daniel screams. The lions crowd around him (no roar)
-
-(Guard) exits the stage on the right side
-
-(Ashpenaz) turns back to the audience
-
-[Ashpenaz] (to the audience) Keep praying, he tells you? Why would you do that? Do you want to be lion chow, too? I told Daniel not to pray to his God. He’s a goner now for sure. (pauses) Of course, Daniel’s God did save Shadrach, Meshach, and Abednego from that fire. I wonder if…nah, no way. No one has ever survived the den full of lions. Those lions will tear him apart in minutes!
-
-(Sign bearer 2) walks from the right side to the left - The Next Day
-
-(Daniel) picks up the scroll and runs out of the Lion’s den to Ashpenaz.
-
-[Daniel] (out of breath, physically crying)  Ashpenaz! Ashpenaz! I’m glad you’re here! You won’t believe what happened to me! You surely won’t believe it!
-
-(Daniel) is talking, Ashpenaz cautiously walks closer to him and keeps poking him.
-
-[Daniel] Ow. Stop that, Ashpenaz. What are you doing?
-
-[Ashpenaz] (still poking Daniel) I’m making sure you’re not a ghost. You don’t feel like a ghost.
-
-[Daniel] Of course I’m not a ghost, Ashpenaz. I’m here. I’m alive! That’s what I’m trying to tell you.
-
-[Ashpenaz] But that’s not possible! They threw you in with a whole bunch of hungry lions. (points toward the audience) We heard them roaring—and they said they were hungry! (pokes Daniel again) You must be dead!
-
-[Daniel] (looks at his arms and legs) Well, I seem to be all here. I have all my fingers and toes. (shuffle then dab)
-
-[Daniel] (turns to the audience) So you knew they threw me into the lions’ den, right? I’ll tell you the truth—I figured that was it—time to die. So I looked up and told God I loved him. And then I waited for that first bite. But it didn’t happen!
-
-[Ashpenaz] (disbelieving) C’mon, Daniel. That’s impossible.
-
-[Daniel] I know! I know! It is impossible! And right then I knew that God had saved me. He had shut the lions’ mouths so they couldn’t eat me! And just now, the king came to the lions’ den and called for me. Now the king is so amazed that he’s going to send out a decree to all the land, telling everyone how great my God is. Look! (holds up the scroll)
-
-[Ashpenaz] (stroking his chin and speaking thoughtfully) So…the king knows you’re alive? And he believes that your God saved you? You know…I was just telling our friends here (gestures to the audience) that I had a hunch you were alive…yes, indeed. And I hadn’t heard a lion roar all night… and I knew that must be an important clue. I’m probably the only one in all of Babylon who figured out that your God had saved you. I’d better go tell the king about my incredible powers of observation. I’ll see you later!
-
-(Ashpenaz) exits the stage from the right side.
-
-[Daniel] (to the audience) I’m so happy and thankful I’m alive and that the king knows that our one true God saved me! That’s the end of my story for today, everyone. Remember, when you’re thankful God is with you. Thanks for watching!
-
-(Together) “Thankful” soundtrack starts playing and all the skit cast members come out and take a bow to the audience.
-
-(Lions) carry out Lion’s den and any remaining props before leaving the stage.
 

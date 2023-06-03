@@ -9,11 +9,11 @@ object UiHelper {
   var spaceBetweenLinePx = 10
 
   fun increaseTextSize() {
-    fontPx += 10
+    fontPx += 5
   }
 
   fun decreaseTextSize() {
-    fontPx -= 10
+    fontPx -= 5
   }
 
   /** Returns number of index (inclusive) that can fit in the height. */
